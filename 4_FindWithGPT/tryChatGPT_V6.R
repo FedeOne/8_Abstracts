@@ -8,6 +8,7 @@ library(quanteda)
 `%notin%` <- Negate(`%in%`)
 
 setwd("C:/Users/Federico/Desktop/8_Abstracts/4_FindWithGPT")
+# s
 
 
 chatter.auth("your key")
